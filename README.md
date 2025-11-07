@@ -126,7 +126,7 @@ This file contains:
    
   * Data cleaning
    
-   Connection to SQL Database
+  * Connection to SQL Database
    
 
 ### 4. Load Data into SQL Database
