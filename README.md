@@ -146,9 +146,9 @@ Answer Business Questions using SQL Queries
 
 ### 5. Connect the SQL Database to Power BI
 
-*Open Customer Shopping Behavior Analysis.pbix
+* Open Customer Shopping Behavior Analysis.pbix
 
-*Create interactive dashboard in Power BI
+* Create interactive dashboard in Power BI
 
 
 
