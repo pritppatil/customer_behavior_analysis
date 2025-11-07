@@ -116,10 +116,18 @@ cd customer-shopping-behavior
 pip install -r requirements.txt
 ```
 
-### 3. Run EDA and Cleaning
-
+### 3.Open Data_Cleaning_Customer_Shopping_Behaviour.ipynb notebook
+ 
 ```bash
-Data_Cleaning_Customer_Shopping_Behaviour.ipynb
+This file contains:
+
+   Data Import
+   
+   Data exploration
+   
+   Data cleaning
+   
+   Connection to SQL Database
 ```
 
 ### 4. Load Data into SQL Database
