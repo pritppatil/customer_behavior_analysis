@@ -152,9 +152,11 @@ Answer Business Questions using SQL Queries
 
 
 
-### 6. View Report Presentation
+### 6. Create Project Report and Presentation
 
-Open the **Gamma** presentation using the shared link or presentation file for business storytelling.
+* Create project report
+
+* Build presentation deck using Gamma AI
 
 ---
 
