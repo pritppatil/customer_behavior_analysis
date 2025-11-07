@@ -118,31 +118,27 @@ pip install -r requirements.txt
 
 ### 3.Open Data_Cleaning_Customer_Shopping_Behaviour.ipynb notebook
  
-```bash
 This file contains:
 
-   Data Import
+  * Data Import
    
-   Data exploration
+  * Data exploration
    
-   Data cleaning
+  * Data cleaning
    
    Connection to SQL Database
-```
+   
 
 ### 4. Load Data into SQL Database
 
-````bash
+* Create a database in SQL
 
-Create a database in SQL
+* Run Python code to load data into SQL database
 
-Run Python code to load data into SQL database
+* Open customer_behavior_SQL_Queries.sql
 
-Open customer_behavior_SQL_Queries.sql
+* Answer Business Questions using SQL Queries
 
-Answer Business Questions using SQL Queries
-
-````
 
 ### 5. Connect the SQL Database to Power BI
 
