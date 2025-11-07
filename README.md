@@ -29,6 +29,7 @@ The workflow includes **data cleaning and EDA in Python**, **SQL-based analysis 
 | Data Preparation & EDA | Python (Pandas, NumPy)                      |
 | SQL Analysis           | PostgreSQL Server                           |
 | Data Visualization     | Power BI                                    |
+| Project Report         | MS-Word                                     |
 | Presentation           | Gamma                                       |
 | Version Control        | Git & GitHub                                |
 
