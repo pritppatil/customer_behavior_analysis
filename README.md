@@ -183,9 +183,9 @@ This file contains:
 
 **Contact:** [priteshprakashpatil@gmail.com]
 
-**GitHub:** [github.com/pritppatil]
+**GitHub:** [[Pritesh Patil](https://github.com/pritppatil)]
 
-**LinkedIn:** [linkedin.com/in/priteshprakashpatil2507]
+**LinkedIn:** [[Pritesh Patil](https://www.linkedin.com/in/priteshprakashpatil2507/)]
 
 **License:** MIT License
 
