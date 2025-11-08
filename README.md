@@ -159,14 +159,14 @@ This file contains:
 
 ## 📘 Project Files
 
-| File                                              | Description                           |
-| ------------------------------------------------- | ------------------------------------- |
-| `customer_shopping_behavior.csv`                  | Raw dataset                           |
-| `Data_Cleaning_Customer_Shopping_Behaviour.ipynb` | Python script for data cleaning & EDA |
-| `customer_behavior_SQL_Queries.sql`               | PostGre SQL queries                   |
-| `Customer Shopping Behavior Analysis.pbix`        | Power BI dashboard                    |
-| `Customer Shopping Behavior Analysis.docx`        | Detailed analytical report            |
-| `Customer Shopping Behavior Analysis New.pdf`     | Final presentation deck               |
+| File                                                       | Description                           |
+| ---------------------------------------------------------- | ------------------------------------- |
+| `customer_shopping_behavior.csv`                           | Raw dataset                           |
+| `Data_Cleaning_Customer_Shopping_Behaviour.ipynb`          | Python script for data cleaning & EDA |
+| `customer_behavior_SQL_Queries.sql`                        | PostGre SQL queries                   |
+| `Customer Shopping Behavior Analysis.pbix`                 | Power BI dashboard                    |
+| `Customer Shopping Behavior Analysis.docx`                 | Detailed analytical report            |
+| `Customer-Shopping-Behavior-Analysis-Presentation.pdf`     | Final presentation deck               |
 
 ---
 
